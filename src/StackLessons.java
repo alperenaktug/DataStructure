@@ -9,7 +9,7 @@ public class StackLessons {
      //   stack boş mu diye kontrol ettik .
 
 
-        // stack e nesne ekledik
+        // stack e nesne ekledik .
         stack.push("Galatasaray");
         stack.push("Fenerbahçe");
         stack.push("Beşiktaş");
