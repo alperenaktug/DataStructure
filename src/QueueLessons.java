@@ -36,6 +36,7 @@ public class QueueLessons {
         System.out.println(queue.isEmpty());           // Kuyruk boş mu diye bilgi verir.
         System.out.println(queue.contains("Muslera")); // Kuyruk bu öğeyi içerir miye cevap döndürür.
         System.out.println(queue.peek());              // Kuyruğun başındaki elemanı döndürür.
+        System.out.println(queue);
 
 
 
